@@ -1,3 +1,4 @@
+  // ── Project Data ─────────────────────────────────
 export const projectsData = [
     {
         img: "/assets/images/joshuagarcia.jpg",
@@ -42,3 +43,33 @@ export const projectsData = [
         gradient: "from-rose-900/30 to-black",
     },
 ];
+
+  // ── Team Data ─────────────────────────────────────
+export const teamData = [
+    {
+        img: "",
+        name: "Ace",
+        role: "Founder",
+        gradient: "from-blue-900/50 to-black",
+        fb: "#",
+        linkedin: "#",
+        instagram: "#"
+    },
+    {
+        img: "",
+        name: "Romano",
+        role: "Developer",
+        fb: "https://www.facebook.com/christianzromano",
+        linkedin: "https://www.facebook.com/christianzromano",
+        instagram: "https://www.facebook.com/christianzromano"
+    },
+    {
+        img: "/assets/images/byroun.png",
+        name: "Cintlic Byroun",
+        role: "IDK",
+        fb: "https://www.facebook.com/christianzromano",
+        linkedin: "https://www.facebook.com/christianzromano",
+        instagram: "https://www.facebook.com/christianzromano"
+    }
+];
+
