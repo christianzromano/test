@@ -8,7 +8,7 @@ export const projectsData = [
         gradient: "from-blue-900/50 to-black",
     },
     {
-        img: "/assets/images/byroun.png",
+        img: "https://youtu.be/U_iRowigVh8?si=FVsrh_x1GOmdxQeQ",
         category: "web",
         title: "Project",
         description: "Lorem ipsum mwa mwa",
