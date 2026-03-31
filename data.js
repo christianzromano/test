@@ -82,7 +82,7 @@ export const projectsData = [
   // ── Team Data ─────────────────────────────────────
 export const teamData = [
     {
-        img: "",
+        img: "assets/images/joshuagarcia.jpg",
         name: "Ace",
         role: "Founder",
         gradient: "from-blue-900/50 to-black",
