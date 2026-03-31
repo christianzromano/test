@@ -8,10 +8,10 @@ export const projectsData = [
         gradient: "from-gold/20 to-black",
     },
     {
-        img: "/assets/images/byroun.png",
+        img: "https://media.discordapp.net/attachments/1488212762604863488/1488638463661048062/image.png?ex=69cd821b&is=69cc309b&hm=798bd2bb46236e378dfb42ece5dd4e0be13f3c4466988cd3de160260b1d11cb6&=&format=webp&quality=lossless&width=835&height=480",
         category: "brand",
-        title: "Project",
-        description: "Lorem ipsum mwa mwa",
+        title: "Peace wow",
+        description: "peace wow peace wow peace wow,
         gradient: "from-purple-900/40 to-black",
     },
     {
