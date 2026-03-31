@@ -1,7 +1,7 @@
   // ── Project Data ─────────────────────────────────
 export const projectsData = [
     {
-        img: "https://youtu.be/U_iRowigVh8",
+        img: "https://www.youtube.com/watch?v=U_iRowigVh8",
         category: "video",
         title: "Webiste",
         description: "Idk",
