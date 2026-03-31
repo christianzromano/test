@@ -1,11 +1,12 @@
   // ── Project Data ─────────────────────────────────
 export const projectsData = [
-    {
-        img: "https://www.youtube.com/watch?v=U_iRowigVh8",
-        category: "video",
-        title: "Webiste",
-        description: "Idk",
-        gradient: "from-blue-900/50 to-black",
+      {
+      img: "https://img.youtube.com/vi/U_iRowigVh8/maxresdefault.jpg",
+      videoId: "U_iRowigVh8",        // 👈 must be present
+      category: "video",
+      title: "My Video",
+      description: "...",
+      gradient: "..."
     },
     {
         img: "https://youtu.be/U_iRowigVh8?si=FVsrh_x1GOmdxQeQ",
